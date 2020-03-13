@@ -1,0 +1,7 @@
+{
+  "required": "The :attribute field is required.",
+  "isEmail": "The :attribute must be a valid email address.",
+  "boolean": "The :attribute field must be true or false.",
+  "equals": "The :attribute must be equal :value characters.",
+  "equalTo": "The :attribute does not match :value."
+}
